@@ -101,7 +101,7 @@
       <uasc:BuildCollection.NextItems>
         <scg:List x:TypeArguments="InArgument(x:String)" Capacity="4">
           <InArgument x:TypeArguments="x:String">Chicago</InArgument>
-          <InArgument x:TypeArguments="x:String">Seattle</InArgument>
+          <InArgument x:TypeArguments="x:String">New York</InArgument>
           <InArgument x:TypeArguments="x:String">San Francisco</InArgument>
         </scg:List>
       </uasc:BuildCollection.NextItems>
